@@ -15,6 +15,8 @@ You can get complete source code of E-com Series, Dating Series and all future u
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7RN3TWXL998U
 
+Note: You can cancel subscription anytime you want.
+
 
 
 
