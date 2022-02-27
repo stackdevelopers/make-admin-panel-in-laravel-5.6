@@ -9,6 +9,8 @@ https://www.youtube.com/playlist?list=PLLUtELdNs2ZY5drPxIWzpq5crhantlzp7
 Make E-commerce Website in Laravel 6 / Laravel 7 (Including LTE Admin Panel) :-
 https://www.youtube.com/playlist?list=PLLUtELdNs2ZaHaFmydqjcQ-YyeQ19Cd6u
 
+Laravel 9 Tutorial :- https://www.youtube.com/watch?v=T0Xm6Xm_Dvw
+
 
 
 
